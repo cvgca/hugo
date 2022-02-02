@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: title
+pages:
+- content/o-la-la-la.md
